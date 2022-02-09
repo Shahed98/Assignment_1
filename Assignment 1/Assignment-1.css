@@ -1,0 +1,71 @@
+body {
+    font-family: - 'Times New Roman', Times, serif;
+    color: rgba(80, 78, 78, 0.719);
+}
+h1 {
+    font-size: 50px;
+    margin: 30px;
+}
+h2 {
+   font-size: 30px; 
+   margin-bottom: 10px;
+   color: black;
+   padding: 20;
+   margin-left: 40;
+}
+.First{
+    margin-left: 30;
+    padding: 20;
+
+    display: flex;
+     
+}
+.Second {
+   width: 1200px;
+   height: 400px;
+   margin-left: 200;
+
+   display: flex
+}
+
+.Third {
+    max-width: 1200;
+   
+    margin: 0px 15px 20px 15px;
+    padding: 30;
+    
+
+    display:flex
+}
+
+.inner-first {
+    width: 1200px;
+    padding: 30;
+    margin: 10px;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+}
+
+.inner-second {
+    width: 1200px;
+    padding: 30;
+    margin: 10px;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+}
+.inner-third {
+    width: 1200px;
+    padding: 30;
+    margin: 10px;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+}
+
+
+
+
+  
+
+
+
+
