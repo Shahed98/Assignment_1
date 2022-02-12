@@ -46,12 +46,26 @@ h2 {
     border-radius: 20px;
 }
 
+.inner-first:hover {
+    background-color: bisque;
+    font-weight: 800;
+    color: rgb(202, 63, 8);
+
+}
+
 .inner-second {
     width: 1200px;
     padding: 30;
     margin: 10px;
     border: 1px solid #ddd;
     border-radius: 20px;
+}
+
+.inner-second:hover {
+    background-color: rgb(255, 198, 196);
+    font-weight: 800;
+    color: rgb(236, 58, 13);
+
 }
 .inner-third {
     width: 1200px;
@@ -61,11 +75,8 @@ h2 {
     border-radius: 20px;
 }
 
-
-
-
-  
-
-
-
-
+.inner-third:hover {
+    background-color: rgb(161, 162, 224);
+    font-weight: 800;
+    color: rgb(77, 4, 160);
+}
